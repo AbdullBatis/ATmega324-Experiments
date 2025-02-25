@@ -31,7 +31,7 @@ My projects and experiments using the ATmega324 microcontroller. This repository
   - Description: Reads user input from a 4x4 keypad and displays the pressed key on a 16x2 LCD. This project serves as a prototype for user interface testing.
 
 ## ATmega324 Datasheet
-For more details on the microcontroller used in these projects, refer to the [ATmega324 Datasheet](docs/ATmega324_Datasheet.pdf).
+For more details on the microcontroller used in these projects, refer to the [ATmega324 Datasheet] (https://ww1.microchip.com/downloads/en/devicedoc/40001908a.pdf).
 
 ## Development Environment
 - **IDE:** Atmel Studio 7.0  
