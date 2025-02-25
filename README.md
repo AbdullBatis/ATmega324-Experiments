@@ -2,17 +2,6 @@
 
 My projects and experiments using the ATmega324 microcontroller. This repository includes firmware development, peripheral interfacing, and embedded system applications.
 
-## Table of Contents
-- [Project 1: ADC with LCD Display](#project-1-adc-with-lcd-display)
-- [Project 2: 7-Segment Display Control](#project-2-7-segment-display-control)
-- [Project 3: Timer Overflow with Interrupts](#project-3-timer-overflow-with-interrupts)
-- [Project 4: PWM Generation Using Timers](#project-4-pwm-generation-using-timers)
-- [Project 5: Keypad Input with LCD](#project-5-keypad-input-with-lcd)
-- [ATmega324 Datasheet](#atmega324-datasheet)
-- [Usage Instructions](#usage-instructions)
-- [License](#license)
-- [Contact](#contact)
-
 ## Project List
 
 - **Project 1: ADC with LCD Display**  
