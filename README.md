@@ -3,33 +3,48 @@
 My projects and experiments using the ATmega324 microcontroller. This repository includes firmware development, peripheral interfacing, and embedded system applications.
 
 ## Table of Contents
-- [Project 1: ADC with LCD Display](#ADC_LCD_DISPLAY)
-- [Project 2: 7-Segment Display Control](#7Segment_Display)
-- [Project 3: Timer Overflow with Interrupts](#TimerOverflow_interrupt_CTC)
+- [Project 1: ADC with LCD Display](#project-1-adc-with-lcd-display)
+- [Project 2: 7-Segment Display Control](#project-2-7-segment-display-control)
+- [Project 3: Timer Overflow with Interrupts](#project-3-timer-overflow-with-interrupts)
+- [Project 4: PWM Generation Using Timers](#project-4-pwm-generation-using-timers)
+- [Project 5: Keypad Input with LCD](#project-5-keypad-input-with-lcd)
+- [ATmega324 Datasheet](#atmega324-datasheet)
 - [Usage Instructions](#usage-instructions)
 - [License](#license)
 - [Contact](#contact)
 
 ## Project List
 
-- **Project 1: ADC with LCD Display**
+- **Project 1: ADC with LCD Display**  
   - Description: Implements ADC and displays the converted value on a 16x2 LCD.
 
-- **Project 2: 7-Segment Display Control**
+- **Project 2: 7-Segment Display Control**  
   - Description: Controls a 7-segment display, incrementing the number from 0 to 9 with button presses.
 
-- **Project 3: Timer Overflow with Interrupts**
+- **Project 3: Timer Overflow with Interrupts**  
   - Description: Uses Timer1 interrupts to toggle an LED.
 
-## Usage Instructions
-1. Clone this repository to your local machine.
-2. Install any necessary dependencies for the projects.
-3. Upload the desired project code to the ATmega324 microcontroller.
+- **Project 4: PWM Generation Using Timers**  
+  - Description: Implements PWM generation using timers without relying on dedicated PWM pins. This project demonstrates duty cycle adjustment and waveform shaping using Timer1 and Timer0.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Project 5: Keypad Input with LCD**  
+  - Description: Reads user input from a 4x4 keypad and displays the pressed key on a 16x2 LCD. This project serves as a prototype for user interface testing.
+
+## ATmega324 Datasheet
+For more details on the microcontroller used in these projects, refer to the [ATmega324 Datasheet](docs/ATmega324_Datasheet.pdf).
+
+## Development Environment
+- **IDE:** Atmel Studio 7.0  
+- **Microcontroller:** ATmega324  
+- **Programming Language:** C  
+- **Compiler:** AVR-GCC  (for compatibility with other IDEs)
+
 
 ## Contact
-- **Abdullah Batis**
-- [GitHub Profile](https://github.com/AbdullBatis)
-- a.batisx@gmail.com
+- **Abdullah Batis** (abax5)  
+- [GitHub Profile](https://github.com/AbdullBatis)  
+- Email: a.batisx@gmail.com
+
+
+
+"The repository will be continuously updated, and more projects will be added."
