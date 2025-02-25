@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # proj4_7Segments
 
 ## Description
@@ -9,3 +10,7 @@ This project controls a 7-segment display using an AVR ATmega324 microcontroller
 - Common anode 7-segment display
 - Push button
 - 330-ohm resistor (connected to the 7-segment display)
+=======
+# ATmega324-Experiments
+My projects and experiments using the ATmega324 microcontroller. This repository includes firmware development, peripheral interfacing, and embedded system applications.
+>>>>>>> d530a6588fe613e886171737e755d4019b8eb3a2
