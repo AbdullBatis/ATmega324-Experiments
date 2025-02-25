@@ -1,19 +1,35 @@
-<<<<<<< HEAD
 # ATmega324-Experiments
+
 My projects and experiments using the ATmega324 microcontroller. This repository includes firmware development, peripheral interfacing, and embedded system applications.
->>>>>>> d530a6588fe613e886171737e755d4019b8eb3a2
 
-=======
-## proj4_7Segments
+## Table of Contents
+- [Project 1: ADC with LCD Display](#ADC_LCD_DISPLAY)
+- [Project 2: 7-Segment Display Control](#7Segment_Display)
+- [Project 3: Timer Overflow with Interrupts](#TimerOverflow_interrupt_CTC)
+- [Usage Instructions](#usage-instructions)
+- [License](#license)
+- [Contact](#contact)
 
-### Description
-This project controls a 7-segment display using an AVR ATmega324 microcontroller. It increments the displayed number from 0 to 9 each time a button connected to the microcontroller is pressed.
+## Project List
 
-### Components Used
-- AVR ATmega324 microcontroller
-- hd74ls48p BCD to 7-Segment Decoder/Driver
-- Common anode 7-segment display
-- Push button
-- 330-ohm resistor (connected to the 7-segment display)
+- **Project 1: ADC with LCD Display**
+  - Description: Implements ADC and displays the converted value on a 16x2 LCD.
 
+- **Project 2: 7-Segment Display Control**
+  - Description: Controls a 7-segment display, incrementing the number from 0 to 9 with button presses.
 
+- **Project 3: Timer Overflow with Interrupts**
+  - Description: Uses Timer1 interrupts to toggle an LED.
+
+## Usage Instructions
+1. Clone this repository to your local machine.
+2. Install any necessary dependencies for the projects.
+3. Upload the desired project code to the ATmega324 microcontroller.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+- **Abdullah Batis**
+- [GitHub Profile](https://github.com/AbdullBatis)
+- a.batisx@gmail.com
